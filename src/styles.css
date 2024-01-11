@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(238, 224, 207);
+}
+.generator{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    gap: 20px;
+}
+
+.input-box{
+    height: 5vh;
+    margin-left: 10px;
+    
+}
+.generate{
+    background-color:rgb(61, 86, 105);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    height: 7vh;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.generate:hover{
+    background-color: rgb(35, 51, 62);
+    
+}
