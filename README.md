@@ -1,8 +1,8 @@
-# React + Vite
+Random Number Generator App built with React js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Generate a random number between a range of defined minimun and maximun.
 
-Currently, two official plugins are available:
+User can define maximun and minimun values for the random number.
+User can press the generate button to generate random number.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Demo: https://randomnumbergenerator-inky.vercel.app/
