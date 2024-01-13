@@ -35,7 +35,7 @@ const Generator = () => {
     return (
     <div className="generator">
         <h2 className="title">Random Number Generator</h2>
-        <h3 className="top">Minimum Number
+        <h3 className="top">Minimum Number: 
             <input 
             type="number"  
             className=" input-box" 
@@ -43,7 +43,7 @@ const Generator = () => {
             onChange={handleMin}
             /> 
         </h3>
-        <h3 className="bottom">Maximum Number
+        <h3 className="bottom">Maximum Number:
             <input 
             type="number"  
             className=" input-box" 

@@ -12,7 +12,7 @@ body{
 
 .input-box{
     height: 5vh;
-    margin-left: 10px;
+    margin-left: 1px;
     
 }
 .generate{
@@ -32,7 +32,9 @@ body{
 
 @media screen and (max-width: 500px) {
     .generator {
-        height: 7vh;
+        height: 10vh;
         width: 50%;
     }
+
+
 }
